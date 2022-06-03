@@ -8,7 +8,7 @@ const students=
                 "grades":["78","100","92","86","89","88","91","87"],
                 "id":"1",
                 "lastName":"Orton",
-                "pic":"",
+                "pic":"https://robohash.org/1",
                 "skill":"Oracle"
             },
             
@@ -19,7 +19,8 @@ const students=
                 "firstName":"Clarke",
                 "grades":["75","89","95","93","99","82","89","76"],
                 "id":"2",
-                "lastName":"Boards","pic":"",
+                "lastName":"Boards",
+                "pic":"https://robohash.org/2",
                 "skill":"Sports"
             },
 
@@ -31,7 +32,7 @@ const students=
                 "grades":["88","90","79","82","81","99","94","73"],
                 "id":"3",
                 "lastName":"Romanet",
-                "pic":"",
+                "pic":"https://robohash.org/3",
                 "skill":"Employee Handbooks"
             },
                 
@@ -42,7 +43,7 @@ const students=
                 "firstName":"Berti","grades":["88","93","92","81","95","98","77","94"],
                 "id":"4",
                 "lastName":"Skitt",
-                "pic":"",
+                "pic":"https://robohash.org/4",
                 "skill":"Nutrition Education"
             },
                 
@@ -53,7 +54,7 @@ const students=
                 "firstName":"Mureil",
                 "grades":["71","81","72","92","79","82","91","90"],
                 "id":"5","lastName":"Summerley",
-                "pic":"",
+                "pic":"https://robohash.org/5",
                 "skill":"ISO 14971"
             },
             {
@@ -64,7 +65,7 @@ const students=
                 "grades":["97","92","72","99","92","92","79","96"],
                 "id":"6",
                 "lastName":"Coryndon",
-                "pic":"",
+                "pic":"https://robohash.org/6",
                 "skill":"Cinema 4D"
             },
             {
@@ -75,7 +76,7 @@ const students=
                 "grades":["74","95","75","95","85","97","88","85"],
                 "id":"7",
                 "lastName":"Eykel",
-                "pic":"",
+                "pic":"https://robohash.org/7",
                 "skill":"Ulead VideoStudio"
             },
             {
@@ -86,7 +87,7 @@ const students=
                 "grades":["80","100","97","78","99","99","76","85"],
                 "id":"8",
                 "lastName":"Ewen",
-                "pic":"",
+                "pic":"https://robohash.org/8",
                 "skill":"Vulcan"
             },
             {
@@ -97,7 +98,7 @@ const students=
                 "grades":["70","100","75","96","83","90","94","92"],
                 "id":"9",
                 "lastName":"Iban",
-                "pic":"",
+                "pic":"https://robohash.org/9",
                 "skill":"EE4"
             },
             
@@ -109,7 +110,7 @@ const students=
                 "grades":["70","99","81","83","78","95","81","76"],
                 "id":"10",
                 "lastName":"Roxby",
-                "pic":"",
+                "pic":"https://robohash.org/10",
                 "skill":"LPS"
             },
             {
@@ -120,7 +121,7 @@ const students=
                 "grades":["98","93","78","87","99","89","97","81"],
                 "id":"11",
                 "lastName":"FitzAlan",
-                "pic":"",
+                "pic":"https://robohash.org/11",
                 "skill":"Geography"
             },
             {
@@ -131,7 +132,7 @@ const students=
                 "grades":["83","97","70","96","75","98","90","71"],
                 "id":"12",
                 "lastName":"Rapelli",
-                "pic":"",
+                "pic":"https://robohash.org/12",
                 "skill":"Identity Management"
             },
             {
@@ -142,7 +143,7 @@ const students=
                 "grades":["87","73","85","98","73","95","75","97"],
                 "id":"13",
                 "lastName":"MacDirmid",
-                "pic":"",
+                "pic":"https://robohash.org/13",
                 "skill":"Outdoor Advertising"
             },
             {
@@ -153,7 +154,7 @@ const students=
                 "grades":["90","73","88","95","71","100","80","86"],
                 "id":"14",
                 "lastName":"Shepherd",
-                "pic":"",
+                "pic":"https://robohash.org/14",
                 "skill":"Amazon VPC"
             },
             {
@@ -164,7 +165,7 @@ const students=
                 "grades":["78","78","96","92","80","82","91","99"],
                 "id":"15",
                 "lastName":"Thorns",
-                "pic":"",
+                "pic":"https://robohash.org/15",
                 "skill":"DMR"
             },
             {
@@ -175,7 +176,7 @@ const students=
                 "grades":["88","74","76","89","75","97","75","86"],
                 "id":"16",
                 "lastName":"Tothe",
-                "pic":"",
+                "pic":"https://robohash.org/16",
                 "skill":"PFI"
             },
             {
@@ -186,7 +187,7 @@ const students=
                 "grades":["78","92","86","80","82","95","76","84"],
                 "id":"17",
                 "lastName":"Keary",
-                "pic":"",
+                "pic":"https://robohash.org/17",
                 "skill":"General Surgery"
             },
             {
@@ -197,7 +198,7 @@ const students=
                 "grades":["84","82","92","74","87","98","86","73"],
                 "id":"18",
                 "lastName":"Swait",
-                "pic":"",
+                "pic":"https://robohash.org/18",
                 "skill":"Sales Tax"
             },
             {
@@ -208,7 +209,7 @@ const students=
                 "grades":["100","75","84","91","100","97","98","87"],
                 "id":"19",
                 "lastName":"Nussey",
-                "pic":"",
+                "pic":"https://robohash.org/19",
                 "skill":"Urbanism"
             },
             {
@@ -219,7 +220,7 @@ const students=
                 "grades":["89","81","77","93","96","96","70","79"],
                 "id":"20",
                 "lastName":"Rydings",
-                "pic":"",
+                "pic":"https://robohash.org/20",
                 "skill":"IFTA"
             },
             {
@@ -230,7 +231,7 @@ const students=
                 "grades":["81","74","77","82","74","88","86","87"],
                 "id":"21",
                 "lastName":"Brenneke",
-                "pic":"",
+                "pic":"https://robohash.org/21",
                 "skill":"ATM Networks"
             },
             
@@ -242,7 +243,7 @@ const students=
                 "grades":["73","99","91","92","85","96","95","73"],
                 "id":"22",
                 "lastName":"Badwick",
-                "pic":"",
+                "pic":"https://robohash.org/22",
                 "skill":"Media Relations"
             },
             {
@@ -253,7 +254,7 @@ const students=
                 "grades":["100","83","76","71","93","95","73","88"],
                 "id":"23",
                 "lastName":"Michie",
-                "pic":"",
+                "pic":"https://robohash.org/23",
                 "skill":"PC Games"
             },
             {
@@ -264,7 +265,7 @@ const students=
                 "grades":["71","80","83","99","91","95","81","75"],
                 "id":"24",
                 "lastName":"Willoughey",
-                "pic":"",
+                "pic":"https://robohash.org/24",
                 "skill":"Kondor+"
             },
             {
@@ -275,22 +276,13 @@ const students=
                 "grades":["97","71","89","85","85","87","92","75"],
                 "id":"25",
                 "lastName":"Gallymore",
-                "pic":"",
+                "pic":"https://robohash.org/25",
                 "skill":"WTL"
             }
         ]
 
-const generateImageURL=(obj)=>{
-    return obj.studentsOriginal.map(
-        (el,ind)=>{
-                return {
-                        ...el,
-                        "pic": `https://robohash.org/${el.id}`,
-                    }
-        })
-}
 
 
 export default function handler(req, res) {
-    res.status(200).json(generateImageURL(students))
+    res.status(200).json(students)
   }
