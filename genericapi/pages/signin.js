@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import { useState, useEffect } from 'react';
 import { useUser } from '@auth0/nextjs-auth0';
 
-export default function Home() {
+export default function Signin() {
   const [name, setName]=useState('')
   const { user, error, isLoading } = useUser();
 
