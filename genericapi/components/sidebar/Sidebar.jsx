@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Navbar, UnstyledButton, Tooltip, Title } from '@mantine/core';
 import {
@@ -26,7 +25,6 @@ const mainLinksMockdata = [
   { icon: IconSearch, label: 'Search' },
   { icon: IconSettings, label: 'Settings' },
 ];
-
 
 const linksHome = [
   'Timeline',
@@ -74,7 +72,6 @@ export default function Sidebar() {
   const [active, setActive] = useState('Home');
   const [activeLink, setActiveLink] = useState('Settings');
 
-
   const mainLinks = mainLinksMockdata.map((link) => (
     <Tooltip label={link.label} position="right" withArrow transitionDuration={0} key={link.label}>
       <UnstyledButton
@@ -103,8 +100,8 @@ export default function Sidebar() {
 
 
   return (
-    <div>
-    <Navbar height={750} width={{ sm: 300 }}>
+  
+    <Navbar className='h-full' width={{ sm: 300 }}>
       <Navbar.Section grow className={classes.wrapper}>
 
         <div className={classes.aside}>
@@ -124,7 +121,6 @@ export default function Sidebar() {
 
       </Navbar.Section>
     </Navbar>
-    </div>
   );
 }
 
