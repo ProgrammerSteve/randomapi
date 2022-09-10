@@ -1,0 +1,7 @@
+.postContainer{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.postContainer::-webkit-scrollbar {
+  display: none;
+}

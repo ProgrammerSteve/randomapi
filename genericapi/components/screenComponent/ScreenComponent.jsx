@@ -1,7 +1,9 @@
 const ScreenComponent=({children})=>{
   return(
   <div className='h-full grow bg-blue-200'>
-  {children}
+    <div className="w-full h-full flex justify-between pl-5">
+      {children}
+    </div>
   </div>
   )
 }
