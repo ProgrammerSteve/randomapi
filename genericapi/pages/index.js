@@ -10,6 +10,7 @@ import { SidebarContext } from '../context/SidebarContext';
 import { useUser } from '@auth0/nextjs-auth0';
 import Timeline from './screens/Timeline';
 import Blank from './screens/Blank';
+import Gallery from './screens/Gallery';
 
 import SkyScraperAd from '../components/skyscraperad/SkyScraperAd';
 
@@ -31,7 +32,7 @@ export default function Home() {
         return(<Blank/>)
         break;
       case 'Gallery':
-        return(<Blank/>)
+        return(<Gallery/>)
         break;
     } 
   }

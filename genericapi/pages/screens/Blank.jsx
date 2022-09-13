@@ -1,8 +1,8 @@
 import PostContainer from "../../components/postContainer/PostContainer";
-
 const Blank=()=>{
   return(
-    <PostContainer/>
+    <PostContainer>
+    </PostContainer>
   )
 }
 export default Blank;
