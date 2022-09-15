@@ -11,6 +11,7 @@ import { useUser } from '@auth0/nextjs-auth0';
 import Timeline from './screens/Timeline';
 import Blank from './screens/Blank';
 import Gallery from './screens/Gallery';
+import Profile from './screens/Profile';
 
 import SkyScraperAd from '../components/skyscraperad/SkyScraperAd';
 
@@ -25,8 +26,8 @@ export default function Home() {
       case 'Timeline':
         return(<Timeline/>)
         break;
-      case 'Trending':
-        return(<Blank/>)
+      case 'Information':
+        return(<Profile/>)
         break;        
       case 'Posts':
         return(<Blank/>)
