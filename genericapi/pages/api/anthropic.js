@@ -21,7 +21,7 @@ const prompts = [
         c: "早上",
         d: "明天",
       },
-      answer: "a",
+      answer: "想喝",
     },
   },
   {
@@ -33,7 +33,7 @@ const prompts = [
         c: "没关系",
         d: "什么",
       },
-      answer: "a",
+      answer: "是",
     },
   },
   {
@@ -45,7 +45,7 @@ const prompts = [
         c: "你",
         d: "很",
       },
-      answer: "a",
+      answer: "我",
     },
   },
   {
